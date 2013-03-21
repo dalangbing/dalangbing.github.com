@@ -24,7 +24,7 @@
      </li>
      <li>链接(href属性、name属性，特别是target属性的用法)</li>
      <li>图像<img>可做背景图片、图像链接，其中alt属性中的文本为图像替换文本(创建图像的映射和转换图像映射有没搞明白）</li>
-     <li>表格<table>定义<tr>定义行、<td>定义单元格、<th>定义表头、<caption>定义标题、&nbsp为空单元格、<thead、tbody、tfoot>使用</li>
+     <li>表格table定义<tr>定义行、td定义单元格、th定义表头、caption定义标题、&nbsp为空单元格、thead、tbody、tfoot使用</li>
 <li></li>
 <li></li>
 <li></li>
